@@ -1,3 +1,4 @@
+# Image Gallery where you can filter the images --> look into src folder for the code
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
